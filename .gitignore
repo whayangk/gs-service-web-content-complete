@@ -1,10 +1,16 @@
 # maven
 target/
 
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
 # eclipse
 .settings/
 .classpath
 .project
 
 # STS
-src/main/webapp/WEB-INF/classes/
+#src/main/webapp/WEB-INF/classes/
