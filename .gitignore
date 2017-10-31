@@ -8,3 +8,9 @@ target/
 
 # STS
 src/main/webapp/WEB-INF/classes/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
